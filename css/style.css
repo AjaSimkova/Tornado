@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+}
+
+img {
+  width: 25rem;
+}/*# sourceMappingURL=style.css.map */
